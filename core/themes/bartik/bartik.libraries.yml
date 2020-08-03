@@ -60,6 +60,8 @@ global-styling:
     theme:
       css/colors.css: {}
       css/print.css: { media: print }
+      css/camilo.css: {}
+      js/camilo.js: {}
 
 messages:
   version: VERSION

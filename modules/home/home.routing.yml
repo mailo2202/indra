@@ -1,7 +1,7 @@
-home.home:
-  path: '/home'
-  defaults:
-    _controller: '\Drupal\home\controller\homeController::show'
-    _title: 'pagina home'
-  requirements:
-    _permission: 'access content'
+  home.content:
+      path: '/helloHome'
+      defaults:
+        _controller: '\Drupal\home\Controller\HomeController::homeController'
+        _title: 'Hello Drupal'
+      requirements:
+        _permission: 'access content'

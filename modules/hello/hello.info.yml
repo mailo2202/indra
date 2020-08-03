@@ -1,0 +1,5 @@
+name: 'hello'
+type: 'module'
+description: 'pagina home'
+core: '8.x'
+package: 'mis modulos'

@@ -1,0 +1,36 @@
+.path-agegate .mikes-agegate #block-mikes-content .block-title {
+  padding-bottom: 2rem;
+}
+.path-agegate .mikes-agegate #block-mikes-content .block-title .title {
+  font-family: "formulaCondensedRegular";
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+  margin: 0;
+  text-transform: uppercase;
+  text-align: center;
+}
+.path-agegate .mikes-agegate #edit-row-1 {
+  padding: 0;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+.path-agegate .mikes-agegate #edit-row-1 #edit-row-2 {
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 0;
+  width: 100%;
+}
+.path-agegate .mikes-agegate #edit-row-1 #edit-row-2 .form-group {
+  float: left;
+  width: 33.333%;
+  margin: 0;
+  padding: 0 .5rem;
+}
+.site-footer .block {
+   margin: 0px 0;
+   border: 1px solid #000000;
+   border-color: 0;
+  padding: 0px;
+}

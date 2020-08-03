@@ -1,0 +1,8 @@
+authAgeOld.form:
+  path: 'authAgeOld/formAge'
+  defaults:
+    _tittle: 'form autentication age'
+    _form: '\Drupal\authAgeOld\form\authAge'
+    _content: '\Drupal\authAgeOld\src\form\authAgeController::form'
+  requirements:
+    _permission: 'access content'
